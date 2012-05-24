@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "name": "jack",
+  "version": "0.0.0-1",
+  "homepage": "https://github.com/beefsack/jack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beefsack/jack.git"
+  },
+  "main": "lib/jack.js",
+  "dependencies": {
+    "jison": "0.3.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
